@@ -1,6 +1,6 @@
 {
     "impact": 2,
-    "unchoosable": false,
+    "unchoosable": true,
     "name": "§7§lStealthy",
     "description": "Sneak around while also not raising suspicion.",
     "icon": "minecraft:ender_eye",
