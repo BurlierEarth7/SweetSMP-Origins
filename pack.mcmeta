@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "name": "SweetSMP Origins",
+    "id": "sweet",
+    "pack_format": 8,
+    "authors": "BurlierEarth7",
+    "version": "1.18.1",
+    "description": "Adds fully custom origins to the server!"
+  }
+}
