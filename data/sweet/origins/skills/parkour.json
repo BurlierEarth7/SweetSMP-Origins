@@ -5,7 +5,6 @@
     "description": "Run, Jump, and climb more efficiently",
     "icon": "minecraft:netherite_boots",
     "powers": [
-        "sweet:skills/parkour/no_elytra",
         "sweet:skills/parkour/reduced_hunger",
         "sweet:skills/parkour/stamina",
         "sweet:skills/parkour/consume_booster",
